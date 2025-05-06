@@ -1,0 +1,27 @@
+body {
+font-family: "arial", sans-serif;
+max-width: 800px;
+margin: 0px auto;
+padding: 10px;
+}
+
+
+img {
+  max-width: 600px;
+  display: block;
+  margin: 30px auto 5px auto;
+}
+
+p {
+	font-size: 20px;
+	line-height: 26px;
+
+
+h2 {
+	font-size: 24px;
+	margin-bottom: 30px;
+}
+h2{
+	font-size: 24px;
+	margin-bottom: 30px;
+}/*Your CSS goes here.*/
